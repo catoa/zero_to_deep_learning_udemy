@@ -1,4 +1,4 @@
-name: ztdl
+name: deep_learning
 channels:
 - !!python/unicode
   'defaults'

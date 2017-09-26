@@ -1,4 +1,4 @@
-name: ztdl-gpu
+name: dl-gpu
 channels:
 - !!python/unicode
   'defaults'
